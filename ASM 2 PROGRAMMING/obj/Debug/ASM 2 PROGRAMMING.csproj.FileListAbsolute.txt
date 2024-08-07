@@ -1,0 +1,33 @@
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\bin\Debug\ASM 2 PROGRAMMING.exe.config
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\bin\Debug\ASM 2 PROGRAMMING.exe
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\bin\Debug\ASM 2 PROGRAMMING.pdb
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM 2 PROGRAMMING.csproj.AssemblyReference.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM_2_PROGRAMMING.Properties.Resources.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM 2 PROGRAMMING.csproj.GenerateResource.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM 2 PROGRAMMING.csproj.CoreCompileInputs.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM 2 PROGRAMMING.exe
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM 2 PROGRAMMING.pdb
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM 2 PROGRAMMING.csproj.AssemblyReference.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM_2_PROGRAMMING.Form1.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM_2_PROGRAMMING.Properties.Resources.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM 2 PROGRAMMING.csproj.GenerateResource.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM 2 PROGRAMMING.csproj.CoreCompileInputs.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM 2 PROGRAMMING.exe
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM 2 PROGRAMMING.pdb
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\bin\Debug\ASM 2 PROGRAMMING.exe.config
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\bin\Debug\ASM 2 PROGRAMMING.exe
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\bin\Debug\ASM 2 PROGRAMMING.pdb
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép\obj\Debug\ASM_2_PROGRAMMING.Login.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\bin\Debug\ASM 2 PROGRAMMING.exe.config
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\bin\Debug\ASM 2 PROGRAMMING.exe
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\bin\Debug\ASM 2 PROGRAMMING.pdb
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM 2 PROGRAMMING.csproj.AssemblyReference.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM_2_PROGRAMMING.Form1.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM_2_PROGRAMMING.Login.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM_2_PROGRAMMING.Properties.Resources.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM 2 PROGRAMMING.csproj.GenerateResource.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM 2 PROGRAMMING.csproj.CoreCompileInputs.cache
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM 2 PROGRAMMING.exe
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING - Sao chép - Sao chép\obj\Debug\ASM 2 PROGRAMMING.pdb
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM_2_PROGRAMMING.Login.resources
+C:\Users\trant\Máy tính\ASM 2 PROGRAMMING\obj\Debug\ASM_2_PROGRAMMING.Table.resources
