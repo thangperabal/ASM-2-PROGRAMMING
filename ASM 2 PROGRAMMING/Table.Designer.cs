@@ -261,6 +261,7 @@
             this.btnSort.TabIndex = 18;
             this.btnSort.Text = "Sort";
             this.btnSort.UseVisualStyleBackColor = true;
+            this.btnSort.Click += new System.EventHandler(this.btnSort_Click);
             // 
             // btnCalculate
             // 
@@ -281,7 +282,7 @@
             this.txtShow.Size = new System.Drawing.Size(391, 127);
             this.txtShow.TabIndex = 20;
             // 
-            // Form1
+            // Table
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -306,7 +307,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.Fixed3D;
-            this.Name = "Form1";
+            this.Name = "Table";
             this.Text = "Table";
             this.Load += new System.EventHandler(this.Table_Load);
             ((System.ComponentModel.ISupportInitialize)(this.bindingSource1)).EndInit();

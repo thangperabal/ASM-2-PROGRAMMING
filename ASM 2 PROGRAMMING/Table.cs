@@ -57,7 +57,7 @@ namespace ASM_2_PROGRAMMING
                 MessageBox.Show("An error occurred: " + ex.Message);
             }
 
-            }
+        }
         private void btnCalculate_Click_1(object sender, EventArgs e)
         {
             try
@@ -213,7 +213,6 @@ namespace ASM_2_PROGRAMMING
                 return result;
             }
         }
-
     }
 }
 
